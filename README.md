@@ -1,5 +1,19 @@
 <div align="center">
   <h1>Hi, I'm Jorge Ceja Morán</h1>
+  
+  🎯 Data Analytics Professional | Python • SQL • Tableau | Mexico City
+  <br>
+  📊 8+ years transforming complex data into strategic insights across 4+ continents
+  <br>
+  🎵 Building data-driven culture through www.cejamoran.com 
+  <br>
+  🔍 Specialized in: Marketing Analytics • Audience Measurement • Statistical Modeling
+  <br>
+  📈 Master's in Data-Driven Marketing | Certified in ML for Marketing
+  <br>
+  🌎 ES | EN | PT
+
+  <br>
   <br>
   
   🤖 Artificial Intelligence
@@ -45,4 +59,12 @@
   📚 Frameworks, Platforms and Libraries
   <br>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+</div>
+
+---
+
+<div align="center">
+  📋 Languages
+  <br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
