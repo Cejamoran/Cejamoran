@@ -7,7 +7,7 @@
 
 🛒 Building scalable digital products across e-commerce and editorial ecosystems
 
-📊 M.Sc. in Data-Driven Marketing | Turning data into product decisions
+📈 Turning data into product strategy, experimentation, and scalable user experiences
 
 🧪 Currently building:
 • Tianguix Platform
