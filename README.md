@@ -1,18 +1,19 @@
 <div align="center">
-  <h1>Hi, I'm Jorge Ceja Morán</h1>
-  
-  🎯 Data Analytics Professional | Python • SQL • Tableau | Mexico City
-  <br>
-  📊 8+ years transforming complex data into strategic insights across 4+ continents
-  <br>
-  🎵 Building data-driven culture through www.cejamoran.com 
-  <br>
-  🔍 Specialized in: Marketing Analytics • Audience Measurement • Statistical Modeling
-  <br>
-  📈 Master's in Data-Driven Marketing | Certified in ML for Marketing
-  <br>
-  🌎 ES | EN | PT
+  <h1>Hi, I'm Jorge Ceja Morán 👋</h1>
 
+🚀 Product Manager building AI-ready digital products
+
+🧠 Product Thinking • Knowledge Graphs • Semantic SEO • AI Search
+
+🛒 Building scalable digital products across e-commerce and editorial platforms
+
+📊 Data-driven decision maker with an M.Sc. in Data-Driven Marketing
+
+🧪 Currently building:
+• Tianguix Platform
+• Cejamoran Product Lab
+
+🌎 ES | EN | PT
   <br>
   <br>
   
