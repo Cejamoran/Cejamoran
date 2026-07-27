@@ -5,9 +5,9 @@
 
 🧠 Product Thinking • Knowledge Graphs • Semantic SEO • AI Search
 
-🛒 Building scalable digital products across e-commerce and editorial platforms
+🛒 Building scalable digital products across e-commerce and editorial ecosystems
 
-📊 Data-driven decision maker with an M.Sc. in Data-Driven Marketing
+📊 M.Sc. in Data-Driven Marketing | Turning data into product decisions
 
 🧪 Currently building:
 • Tianguix Platform
